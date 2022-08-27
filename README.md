@@ -47,7 +47,7 @@ Para ligar o bot usando NPM digite
 Linux:
 
 ```sh
-yarn install && npm start
+npm install && npm start
 ```
 
 Windows
