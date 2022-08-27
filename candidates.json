@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Maria",
+        "type": "president",
+        "infos": {
+            "number": 17,
+            "team": "Governadores da Roça.",
+            "president2": "Joaozinho da Quebrada",
+            "image": ""
+        }
+    },
+    {
+        "name": "Roberto",
+        "type": "president",
+        "infos": {
+            "number": 47,
+            "team": "Governadores da Cidade",
+            "president2": "Maria do sertão",
+            "image": ""
+        }
+    },
+    {
+        "name": "Marcelo Campos",
+        "type": "congressperson",
+        "infos": {
+            "number": 9181,
+            "team": "Governadores da Cidade",
+            "president2": "Maria do sertão",
+            "image": ""
+        }
+    }
+]
